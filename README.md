@@ -11,6 +11,10 @@ practice serving 100 patients during June 2024. Created
 to identify patterns in patient satisfaction and provide 
 actionable, data-driven recommendations.
 
+## Dashboard Preview
+![Dashboard](images/dashboard_preview2.png)
+
+
 ## Key Findings
 - 40% of patients are uninsured — largest patient group
 - Optimal wait time is ~25 minutes for peak satisfaction
