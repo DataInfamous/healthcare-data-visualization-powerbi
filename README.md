@@ -62,3 +62,8 @@ Not for commercial use.
 - Berinato, S. (2016). Good Charts. Harvard Business Review Press.
 - MIT Alumni. Best Practices for PowerPoint Presentations.
 - Microsoft Power BI Documentation.
+
+
+
+## Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamyn-wilson-08134417)
