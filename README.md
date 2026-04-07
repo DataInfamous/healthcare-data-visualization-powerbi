@@ -45,8 +45,9 @@ actionable, data-driven recommendations.
 - Microsoft PowerPoint
 
 ## Files
-- `Patient_Experience_Analysis.pbix` — Power BI report
-- `Patient_Experience_Analysis.pptx` — Presentation
+- `Wilson_Patient_Experience_Analysis.pbix` — Power BI report
+- `Wilson_Patient_Experience_Analysis.pptx` — Presentation
+
 
 ## Data Privacy Notice
 Patient data is anonymized and provided for educational 
